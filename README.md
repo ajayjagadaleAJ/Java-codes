@@ -1,2 +1,2 @@
 # Java-codes
-Basic programs of java concept codes
+Basic programs of java concepts
